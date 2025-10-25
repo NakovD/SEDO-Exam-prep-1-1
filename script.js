@@ -10,6 +10,8 @@ function multiply(a, b) {
   return a * b;
 }
 
+
+//second commit for third branch so I can squash them;
 function calculateAndDisplay(fn) {
   const rawA = document.getElementById('a').value;
   const rawB = document.getElementById('b').value;
